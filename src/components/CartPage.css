@@ -1,0 +1,8 @@
+.productContainer{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.products{
+    margin: 10px;
+}

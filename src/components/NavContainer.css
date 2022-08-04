@@ -1,0 +1,8 @@
+.listContainer{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    margin: 0px;
+    background-color: gray;
+}
